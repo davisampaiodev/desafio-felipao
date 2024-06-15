@@ -39,5 +39,4 @@ default:
    PatenteDoHeroi = 'Indefinido'
 
 }
-
 console.log("O Heroi de nome " + NomeDoHeroi + " esta na patente " + PatenteDoHeroi + ".")
